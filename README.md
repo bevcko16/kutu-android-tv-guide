@@ -9,9 +9,8 @@ Originally developed and tested on:
 
 ## Full step-by-step guide
 
-The full user guide is published separately on Substack:
-
-**[Read the full guide](https://berksim.substack.com/p/mi-box-android-tv-guide-optimise)**
+- 🇹🇷 [Türkçe rehber](https://berksim.substack.com/p/mi-box-android-tv-rehberi)
+- 🇬🇧 [English guide](https://berksim.substack.com/p/mi-box-android-tv-guide-optimise)
 
 ## Files
 
